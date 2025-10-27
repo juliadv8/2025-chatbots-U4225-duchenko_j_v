@@ -6,7 +6,7 @@ Group: U4225
 Author: Duchenko Yulia Viktorovna  
 Lab: Lab2  
 Date of create: 27.10.2025  
-Date of finished: __.10.2025 
+Date of finished: 27.10.2025 
 
 ## Отчет по практике - Лабораторная работа №2 "Подключение бота к данным"
 Во время выполнения задания выполнены следующие шаги:
