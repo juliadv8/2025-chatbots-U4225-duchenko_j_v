@@ -96,9 +96,6 @@ data/museums.json (пример структуры):
 - Хорошие комментарии в коде
 - Сохранить существующий функционал
 
-`````
-
-
 Создай:
 
 1. Обновленный bot.py
@@ -108,6 +105,13 @@ data/museums.json (пример структуры):
 `````
 
 3. Обновила файлы и запустила бот.
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab2/img/lab2_screen1.png)
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab2/img/lab2_screen2.png)
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab2/img/lab2_screen3.png)
 
+В результате отображается погода + карта с маршрутом до адреса.
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab2/img/lab2_screen4.png)
+
+------
 [Ссылка на бот](https://t.me/itmoftmi_dyv_bot)  
 [Cсылка на видео](https://drive.google.com/file/d/1yloLzmMRXmbeHnBw5mTmhPBpBoUS_Uks/view?usp=drive_link)
