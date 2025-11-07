@@ -45,8 +45,14 @@ Date of finished: ___.11.2025
 
 По обратной связи: пользователю непонятно как вводить команды типа "/route <id|название> — маршрут в Яндекс.Картах", 
 " /plan <id|название> — погода + маршрут". Также возможно дальнейшее улучшение бота через голосовой ввод и дополнительный контент.
-
+Исходя из моих текущих навыков внесла следующие правки:
+- упростила первую команду /find (чтобы не запрашивала id),
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab3/img/l3_updates1.png)
+- добавила команду для сбора обратной связи сразу в боте,
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab3/img/l3_updates2.png)
+- добавила команду для показа статистики админу.
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab3/img/l3_updates3.png)
 
 ------
 [Ссылка на бот](https://t.me/itmoftmi_dyv_bot)  
-[Cсылка на видео](https://drive.google.com/file/d/1yloLzmMRXmbeHnBw5mTmhPBpBoUS_Uks/view?usp=sharing)
+[Cсылка на видео](https://drive.google.com/file/d/1yCI3LNYeJ40HJAa-AA8Q2aQQfRCerZOS/view?usp=sharing)
