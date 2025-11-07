@@ -114,4 +114,4 @@ data/museums.json (пример структуры):
 
 ------
 [Ссылка на бот](https://t.me/itmoftmi_dyv_bot)  
-[Cсылка на видео](https://drive.google.com/file/d/1yloLzmMRXmbeHnBw5mTmhPBpBoUS_Uks/view?usp=drive_link)
+[Cсылка на видео](https://drive.google.com/file/d/1yloLzmMRXmbeHnBw5mTmhPBpBoUS_Uks/view?usp=sharing)
