@@ -38,9 +38,13 @@ Date of finished: ___.11.2025
 
 
 7. Собрала обратную связь через форму https://forms.gle/2VqANJG4wMQ4Nwk26
-   
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab3/img/lab3_survey2.png)  
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab3/img/lab3_survey3.png)  
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab3/img/lab3_survey4.png)  
+![](https://github.com/juliadv8/2025-chatbots-U4225-duchenko_j_v/blob/main/lab3/img/lab3_survey5.png)  
 
-
+По обратной связи: пользователю непонятно как вводить команды типа "/route <id|название> — маршрут в Яндекс.Картах", 
+" /plan <id|название> — погода + маршрут". 
 
 ------
 [Ссылка на бот](https://t.me/itmoftmi_dyv_bot)  
