@@ -49,4 +49,4 @@ Date of finished: ___.11.2025
 
 ------
 [Ссылка на бот](https://t.me/itmoftmi_dyv_bot)  
-[Cсылка на видео](     )
+[Cсылка на видео](https://drive.google.com/file/d/1yloLzmMRXmbeHnBw5mTmhPBpBoUS_Uks/view?usp=sharing)
